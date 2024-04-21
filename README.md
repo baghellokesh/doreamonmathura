@@ -28,7 +28,7 @@
  
  
 - 🌱 I’m currently Focusing on  **MERN Stack**
-- 💬 Ask me about **Java, GitHub, Git, Linux, Sql.**
+- 💬 Ask me about **Java, GitHub**
 - ⚡ Fun fact **If I were a genius scientist Newton, I would most like to eat that apple rather than to find the science behind it.**
 
 
@@ -121,10 +121,7 @@
 <img src="https://img.shields.io/badge/N-Notion-green">&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AStu.-Android%20Studio-blue"><br><br>
 </div>
-</div>
-  
-## ⚡ Certificates:
-  <img src="https://github.com/codeBurner0/codeBurner0/blob/main/Essentials/CertificateImage.gif"  border="10x solid white">
+</div
   
     
 ## 🏆GitHub Trophies:
