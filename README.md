@@ -157,21 +157,6 @@
 | _Github Stats_ |  _Streaks_   |
 | :------------: | :----------: |
 |   ![][stats]   | ![][streaks] |
-
-
-
-## 💹 Contribution Graph:
-
-<div align="center">
-<!--  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeburner0&theme=2077" width="850px" /> -->
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeburner0&theme=react-dark&hide_border=false&area=true" width="850px" />
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-
-
-
-
  
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=codeburner0&theme=dracula&hide_border=true"/> -->
 
